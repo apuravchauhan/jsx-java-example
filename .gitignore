@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+target/
+.DS_Store
+java-freemarker-ssr/ftltest/.DS_Store
+jsx-react-component/.DS_Store

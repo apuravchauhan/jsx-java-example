@@ -1,0 +1,15 @@
+{
+  "name": "jsx-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jsx-to-htmltemplate": "./node_modules/jsx-to-htmltemplate/index.js"
+  },
+  "author": "Apurav Chauhan",
+  "license": "MIT",
+  "dependencies": {
+    "jsx-to-htmltemplate": "^0.1.4"
+  }
+}

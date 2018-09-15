@@ -1,0 +1,8 @@
+{
+  "presets": ["es2015"],
+  "plugins": [
+    "jsx-to-generichtml",
+    "syntax-jsx",
+    "syntax-class-properties"
+  ]
+}
